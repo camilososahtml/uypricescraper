@@ -15,6 +15,6 @@ Gets: Product name and price
 
 Category
 
-Gets: Name of visible products (12), price
+Gets: Name of visible products (12), price, image, description even if the picked url cames into a category (if the product has it), image url 
 
 Exports in CSV
