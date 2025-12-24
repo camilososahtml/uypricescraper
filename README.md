@@ -1,5 +1,5 @@
 # uypricescraper
-Scraping in Python (Bs4, request) for HTML and VTEX
+Scraping Crawlers in Python (Bs4, request) for HTML and VTEX
 
 Technologies:
 Python 3,
@@ -16,5 +16,7 @@ Gets: Product name and price
 Category
 
 Gets: Name of visible products (12), price, image, description even if the picked url cames into a category (if the product has it), image url 
+
+Crawlers getting whole page with info.
 
 Exports in CSV
