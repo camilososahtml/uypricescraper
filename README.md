@@ -15,8 +15,8 @@ Gets: Product name and price
 
 Category
 
-Gets: Name of visible products (12), price, image, description even if the picked url cames into a category (if the product has it), image url 
+Gets: Name of visible products, price, image, description even if the picked url cames into a category (if the product has it), image url 
 
 Crawlers getting whole page with info.
 
-Exports in CSV
+Refreshes DataBase when using it.
